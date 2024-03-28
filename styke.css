@@ -1,0 +1,27 @@
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+
+    background-color: rgb(223, 219, 214);
+
+}
+
+em strong{
+    color: rgb(90, 72, 11);
+}
+
+#mision{
+    font-size: 20px;
+}
+
+#banner{
+    width: 50%;
+    text-align: center;
+
+}
